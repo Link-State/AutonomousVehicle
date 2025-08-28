@@ -1,2 +1,22 @@
-# AutonomousVehicle
-simple autonomous vehicle system develop by Unity
+# Unity를 이용한 간단한 자율주행자동차 시스템 개발
+### [2024 1학기 기계학습개론 중간과제]
+
+### 개발 기간
+> 2024.12.19 ~ 2024.12.25
+
+### 개발 환경
+> Unity 3.12.6 <br>
+> RTX4050 Laptop<br>
+
+### 설명
++ 동기
+    + 기계학습개론 수업 중간과제
++ 기획
+    + Naive Bayse Classifier, Bayesian Estimation을 이용한 길 인식
+    + 길의 형태는 직진, 분기점, 좌회전, 우회전으로 총 4개의 타입이 존재한다.
+
+### 실행
+
+
+<br>
+
